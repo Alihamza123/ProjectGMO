@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="About Page Only" parallel="false">
+
+	<test name="ABOUT PAGE (POSITIVE)">
+		<classes>
+			<class name="framework.tests.positive.AboutPage" />
+		</classes>
+	</test>
+</suite> 

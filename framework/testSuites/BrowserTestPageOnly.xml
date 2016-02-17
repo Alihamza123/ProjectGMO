@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Browser Test Page Only" parallel="false">
+
+	<test name="BROWSER TEST PAGE (POSITIVE)">
+		<classes>
+			<class name="framework.tests.positive.BrowserTestPage" />
+		</classes>
+	</test>
+</suite> 

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ALL PAGES SUITE" parallel="false">
+	<test name="Homepage Test">
+		<classes>
+			<class name="framework.tests.positive.Homepage" />
+		</classes>
+	</test>
+	<test name="GMO PAGE Test - POSITIVE">
+		<classes>
+			<class name="framework.tests.positive.GmoPage" />
+		</classes>
+	</test>
+	<test name="GMO PAGE Test - NEGATIVE">
+		<classes>
+			<class name="framework.tests.negative.GmoPage" />
+		</classes>
+	</test>
+	<test name="ABOUT GMO PAGE Test">
+		<classes>
+			<class name="framework.tests.positive.AboutPage" />
+		</classes>
+	</test>
+	<test name="Browser Test PAGE Test">
+		<classes>
+			<class name="framework.tests.positive.BrowserTestPage" />
+		</classes>
+	</test>
+</suite> 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Home Page Only" parallel="false">
+
+	<test name="HOME PAGE TESTS (POSITIVE)">
+		<classes>
+			<class name="framework.tests.positive.Homepage" />
+		</classes>
+	</test>
+</suite> 

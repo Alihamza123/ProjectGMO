@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Gmo Page Only" parallel="false">
+
+	<test name="GMO PAGE (POSITIVE)">
+		<classes>
+			<class name="framework.tests.positive.GmoPage" />
+		</classes>
+	</test>
+	<test name="GMO PAGE (NEGATIVE)">
+		<classes>
+			<class name="framework.tests.negative.GmoPage" />
+		</classes>
+	</test>
+</suite> 
